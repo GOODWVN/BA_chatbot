@@ -1,0 +1,1 @@
+test_pic_path = 'dataset\\test\\1.png'
